@@ -20,7 +20,7 @@ This consultancy project has been completed as a requirement in the Business Res
 <br />
 
 
-<h2>Research Methods (What we did)</h2>
+<h2> What we did (Research Methods)</h2>
 
 - <b>Collecting background information about the GCC and the context of the retail sector in Groningen and its stakeholders.  </b>
 - <b>Working with the client (through several intake meetings) to choose a sample of streets and retailers for detailed research. Then, interviewing those retailers to understand their problems and opportunities. The interviews were scheduled as long as the retailers were available and willing to participate.  </b>
@@ -28,7 +28,7 @@ This consultancy project has been completed as a requirement in the Business Res
 - <b>Based on thorough analysis, providing practical suggestions via a final advice report to the GCC to help retailers to increase their physical sales and thrive in their businesses.  </b>
 
 
-<h2>What did we learn </h2>
+<h2>What we learnt </h2>
 
 <br/>
 <img src="https://i.imgur.com/OJSkp3C.png" height="80%" width="80%" alt="Google-BI-Project"/>
