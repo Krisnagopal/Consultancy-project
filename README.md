@@ -1,5 +1,5 @@
 
-<h1> Google BI Project </h1>
+<h1> Business Consultancy Project </h1>
 
 <h2>Description</h2>
 This consultancy project has been completed as a requirement in the Business Research & Consultancy course in my MSc program at the University of Groningen. Here, I worked as a junior consultant in a team of four(04) students for an external company under the supervision of course coordinators. We worked as consultants for the Groningen City Club (GCC) to help them finding optimum solutions for a problem situation. The problem was centered around the Groningen City Retailers who have been struggling in their businesses in the post-pandemic period. So we needed to identify the reasons behind them first and then propose a few potential solutions to get them out of that struggling phase. It was a research-based consultancy project which we, the team of four junior consultants, completed successfully.
