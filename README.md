@@ -6,45 +6,40 @@ This consultancy project has been completed as a requirement in the Business Res
 <br />
 
 
-<h2>Research Methods</h2>
+<h2>Tools Used</h2>
+
+- <b>Interviews and Surveys </b>
+- <b>MS Excel for analysing respondents demographic data </b>
+
+
+
+<h2>What were needed to be  done </h2>
+
+<br/>
+<img src="https://i.imgur.com/mQZJsuG.png" height="80%" width="80%" alt="Google-BI-Project"/>
+<br />
+
+
+<h2>Research Methods (What we did)</h2>
 
 - <b>Collecting background information about the GCC and the context of the retail sector in Groningen and its stakeholders.  </b>
 - <b>Working with the client (through several intake meetings) to choose a sample of streets and retailers for detailed research. Then, interviewing those retailers to understand their problems and opportunities. The interviews were scheduled as long as the retailers were available and willing to participate.  </b>
 - <b>After gathering all the interview data, analyzing those carefully to find patterns, insights, and possible solutions. Our objective was to discover factors behind the downfall of physical sales -decreased footfall, consumer behavior, retailers' choices, the lack of cooperation among the retailers etc.  </b>
 - <b>Based on thorough analysis, providing practical suggestions via a final advice report to the GCC to help retailers to increase their physical sales and thrive in their businesses.  </b>
 
-<h2>Tools and Libraries Used</h2>
 
-- <b>Google BigQuery for extracting, transforming and loading data into a final destination </b>
-- <b>Tableau for creating visualizations and Dashboards using the final data </b>
+<h2>What did we learn </h2>
 
-<h2>Some visualizations created in Tableau during the Project:</h2>
-
-<p align="center">
-Monthly traffic volumes: <br/>
-<img src="https://i.imgur.com/fWeFjMX.png" height="80%" width="80%" alt="Google-BI-Project"/>
-<br />
-<br />
-Role played by the weather:  <br/>
-<img src="https://i.imgur.com/TMg0JIe.png" height="80%" width="80%" alt="Google-BI-Project"/>
-<br />
-<br />
-Holiday Travel: <br/>
-<img src="https://i.imgur.com/Z3FMhs8.png" height="80%" width="80%" alt="Google-BI-Project"/>
-<br />
-<br />
-Hourly Traffic Pattern:  <br/>
-<img src="https://i.imgur.com/y4LdW9y.png" height="80%" width="80%" alt="Google-BI-Project"/>
-<br />
+<br/>
+<img src="https://i.imgur.com/OJSkp3C.png" height="80%" width="80%" alt="Google-BI-Project"/>
 <br />
 
-<h2>Final Dashboard created in Tableau during the Project:</h2>
 
-<p align="center">
-Cyclistic Trip Miinutes: <br/>
-<img src="https://i.imgur.com/YV38alo.png" height="80%" width="80%" alt="Google-BI-Project"/>
+<h2>Summary Poster of the Project:</h2>
+<br/>
+<img src="https://i.imgur.com/9hkfunb.jpg" height="80%" width="80%" alt="Google-BI-Project"/>
 <br />
-</p>
+
 
 <!--
  ```diff
