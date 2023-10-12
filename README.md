@@ -16,7 +16,7 @@ This consultancy project has been completed as a requirement in the Business Res
 <h2>What were needed to be  done </h2>
 
 <br/>
-<img src="https://i.imgur.com/mQZJsuG.png" height="80%" width="80%" alt="Google-BI-Project"/>
+<img src="https://i.imgur.com/mQZJsuG.png" height="80%" width="80%" alt="Business Consultancy Project"/>
 <br />
 
 
@@ -31,13 +31,13 @@ This consultancy project has been completed as a requirement in the Business Res
 <h2>What we learnt </h2>
 
 <br/>
-<img src="https://i.imgur.com/OJSkp3C.png" height="80%" width="80%" alt="Google-BI-Project"/>
+<img src="https://i.imgur.com/OJSkp3C.png" height="80%" width="80%" alt="Business Consultancy Project"/>
 <br />
 
 
 <h2>Summary Poster of the Project:</h2>
 <br/>
-<img src="https://i.imgur.com/9hkfunb.jpg" height="80%" width="80%" alt="Google-BI-Project"/>
+<img src="https://i.imgur.com/9hkfunb.jpg" height="80%" width="80%" alt="Business Consultancy Project"/>
 <br />
 
 
